@@ -143,3 +143,12 @@ Feel free to submit issues and enhancement requests.
 - just_audio for the excellent audio player implementation
 - Cloudinary for file storage solutions
 - FastAPI for the efficient backend framework
+  
+## Screenshots
+![Screenshot_1735037903](https://github.com/user-attachments/assets/9b5e6c51-38ca-4c13-99c1-a174625f0fdf)
+![Screenshot_1735037905](https://github.com/user-attachments/assets/f1311937-65bb-4277-a2c6-100c3a41cbd4)
+![Screenshot_1735040692](https://github.com/user-attachments/assets/63199a04-cfc1-40f7-b0e8-d987d21d0099)
+![Screenshot_1735040700](https://github.com/user-attachments/assets/c2a50164-2937-4abd-9319-ca8b13d661e0)
+![Screenshot_1735040706](https://github.com/user-attachments/assets/7e76fb43-dcd3-4a43-a2c1-a08a350ea996)
+![Screenshot_1735040717](https://github.com/user-attachments/assets/d4e69501-cfeb-4835-bfa5-9b418489a90b)
+
